@@ -12,7 +12,7 @@
     "@types/uuid": "^8.3.1",
     "azure-table-promise": "^1.2.0",
     "azure-utils": "^2.7.0",
-    "luxon": "^2.0.1",
+    "luxon": "^2.5.2",
     "nhs-core-utils": "^0.0.13-RELEASE",
     "request-it-client": "^1.4.1",
     "storage-table-document": "^1.5.0",
